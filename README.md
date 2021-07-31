@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-bandeira20/)](https://www.linkedin.com/in/bruno-bandeira20/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobandeira20@gmail.com)](mailto:brunobandeira20@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&target=_blank&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999290308&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202.)](https://api.whatsapp.com/send?phone=5584999290308&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202.)
-
+<img src="https://komarev.com/ghpvc/?username=brunobandeira20&color=green" alt="brunobandeira20" />
 # Hi, I'm Bruno Bandeira, Bachelor of Science and Technology, web developer.
 <div>
   <a href="https://github.com/brunobandeira20">
