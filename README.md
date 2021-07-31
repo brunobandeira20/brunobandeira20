@@ -19,6 +19,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
+   ![Snake animation](https://github.com/brunobandeira20/brunobandeira20/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 .
