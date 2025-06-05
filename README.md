@@ -1,7 +1,7 @@
 ## 😎💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-bandeira20/)](https://www.linkedin.com/in/bruno-bandeira20/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobandeira20@gmail.com)](mailto:brunobandeira20@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&target=_blank&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999290308&text=.)](https://api.whatsapp.com/send?phone=5584999290308&text=.)
+[![Gmail Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&target=_blank&logoColor=white&link=https://api.whatsapp.com/send?phone=14386229518&text=.)](https://api.whatsapp.com/send?phone=5584999290308&text=.)
 <img src="https://komarev.com/ghpvc/?username=brunobandeira20&color=green" alt="brunobandeira20" />
 # Hi, I'm Bruno Bandeira.
 <div>
